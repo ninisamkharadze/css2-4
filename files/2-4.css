@@ -1,0 +1,228 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#img {
+    max-width: 1400px;
+    width: 100%;
+    max-height: 674px;
+    margin: 0 auto;
+    height: 100%;
+    margin-top: 156px;
+    display: block;
+}
+
+#pOnImg {
+    font-size: 44.452px;
+    font-weight: 400;
+    color: #fff;
+    background-color: rgba(27, 18, 156, 0.664);
+    margin-top: 0; 
+    margin-bottom: 115px;
+}
+
+#articleDiv {
+    max-width: 1137px;
+    width: 100%;
+    background-color: #EBF8FE;
+    padding: 40px 32px;
+    margin: auto;
+    border-radius: 24px;
+    margin-bottom: 72px;;
+}
+
+h1 {
+    color: #181D27;
+    font-size: 64px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+#articleP {
+    color: #535862;
+    font-size: 32px;
+    font-weight: 400;
+    margin: 0 auto;
+    margin-bottom: 24px;
+}
+
+#emailInput {
+    max-width: 345px;
+    width: 100%;
+    padding: 10px 14px;
+    border-radius: 8px;
+    border: 1px solid #D5D7DA;
+    vertical-align: middle;
+    margin-bottom: 8px;
+}
+
+
+::placeholder {
+    color: #717680;
+    font-size: 16px;
+}
+
+#subscribeButton {
+    background-color: #007CB8;
+    border: 2px solid #FFF;
+    color: #fff;
+    padding: 10px 18px;
+    border-radius: 8px;
+    margin-left: 24px;
+    vertical-align: middle;
+}
+
+#subscribeButtonDiv {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    max-width: 480px;
+}
+
+#privarcyPolice {
+    text-align: left;
+    color: #535862;
+    margin-left: 5px;
+}
+
+#privarcy {
+    color: #535862;
+}
+
+#submitDiv {
+    padding: 40px 32px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 99px;
+    max-width: 546px;
+    background-color: #EBF8FE;
+    border-radius: 24px;
+}
+
+#submitH2 {
+    color: #181D27;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+
+#nameInput {
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #380054;
+    max-width: 482px;
+    width: 100%;
+    margin-top: 8px;
+    margin-bottom: 24px;
+}
+
+#submitDiv input::placeholder {
+    color: #6D5F8B;
+    font-size: 14px;
+}
+
+.submitLabel {
+    color: #1B003D;
+    font-size: 14px;
+}
+
+#emailInput2 {
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #380054;
+    max-width: 482px;
+    width: 100%;
+    margin-top: 8px;
+    margin-bottom: 24px;
+}
+
+#emailInputLabel {
+    color: #1B003D;
+    font-size: 14px;
+}
+
+.block {
+    display: block;
+}
+
+#firstCkeckbox {
+    font-size: 14px;
+    color: #1B003D;
+    margin-bottom: 7px;
+}
+
+#firstYes2 {
+    margin-left: 11px;
+    margin-bottom: 10px;
+}
+
+#secondYes2 {
+    margin-left: 11px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#thirdYes2 {
+    margin-left: 11px;
+    margin-bottom: 24px;
+}
+
+#secondYes {
+    margin-bottom: 10px;
+}
+
+#firstYes {
+    margin-bottom: 10px;
+}
+
+.radio {
+    width: 16px;
+    height: 16px;
+}
+
+.radioSpan {
+    color: #6D5F8B;
+    font-size: 14px;
+}
+
+#checkboxLabel {
+    font-size: 14px;
+    color: #1B003D;
+    margin-bottom: 7px;
+    margin-top: 24px;
+}
+
+#firstCkeckbox1 {
+    margin-bottom: 10px;
+    margin-right: 11px;
+    width: 16px;
+    height: 16px;
+}
+
+#secondCheckbox {
+    margin-bottom: 10px;
+    margin-right: 11px;
+    width: 16px;
+    height: 16px;
+}
+
+#thirdCheckbox {
+    margin-bottom: 10px;
+    margin-right: 11px;
+    width: 16px;
+    height: 16px;
+}
+
+#forthCheckbox {
+    margin-right: 11px;
+    width: 16px;
+    height: 16px;
+}
+
+.checkboxSpanStyles {
+    color: #6D5F8B;
+    font-size: 14px;
+}
